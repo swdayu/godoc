@@ -9,14 +9,16 @@ Go编程语言文档翻译和整理
 * `The Go Programming Language Specification <https://go.dev/ref/spec>`_
 * `The Go Standard Library <https://pkg.go.dev/std>`_
 * `The Go Package Sources <https://go.dev/src/>`_
+* `The Go All Releases and History <https://go.dev/dl/>`_
 * `The Go Doc Comments <https://go.dev/doc/comment>`_
 * `The Go Command Documentation <https://go.dev/doc/cmd>`_
-* `The Go Memory Model <https://go.dev/ref/mem>`_
 * `Effective Go <https://go.dev/doc/effective_go>`_
 * `Frequently Asked Questions (FAQ) <https://go.dev/doc/faq>`_
 * `Language Design in the Service of Software Enginerring <https://go.dev/talks/2012/splash.article>`_
-* `Go Data Structures: Interfaces <https://research.swtch.com/interfaces>`_
 * `Concurrency in Go <https://go.dev/learn/#featured-books>`_
+* `The Go Testing Package <https://pkg.go.dev/testing>`_
+* `Profiling Go Programs <https://go.dev/blog/pprof>`_
+* `A Quick Guide to Go's Assembler <https://go.dev/doc/asm>`_
 
 命名规范
 
