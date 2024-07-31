@@ -1,8 +1,8 @@
 Go编程语言文档翻译和整理
 
-1. `语言规范 <go-language-spec.rst>`_
-2. `类型系统 <go-type-system.rst>`_
-3. `并发编程 <go-concurrency.rst>`_
+1. `语言规范 <a-lang-spec.rst>`_
+2. `类型系统 <b-type-system.rst>`_
+3. `并发编程 <c-concurrency.rst>`_
 
 参考链接
 
